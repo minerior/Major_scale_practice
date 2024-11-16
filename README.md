@@ -7,4 +7,4 @@ An easy tkinter based app for major scale practice
 - From C4 to C5
 - Modules: tkinter,pygame
 
-![ui]('./source/ui.png')
+![ui]('ui.png')
